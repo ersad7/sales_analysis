@@ -9,12 +9,14 @@ We start by cleaning our data, adding new columns, parsing and grouping. Once we
 - Products most often sold together
 - The Most sold Product
 
+
 **Python Data Analysis libraries used:**
  - _NumPy_
  - _Pandas_
  - _itertools_
  - _collections_
- - 
+ 
+ 
 **Python Data Visualization libraries used:**
  - _Matplotlib_
  - _Seaborn_
